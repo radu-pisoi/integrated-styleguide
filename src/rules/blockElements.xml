@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<blockElements xmlns="http://oxygenxml.com/dita/blockElements">
+<blockElements xmlns="http://oxygenxml.com/dita/blockElements">    
     <class>topic/p</class>
     <class>topic/pre</class>
     <class>topic/ul</class>
     <class>topic/ol</class>
+    <class>topic/li</class>
     <class>topic/table</class>
     <class>topic/dl</class>
     <class>topic/example</class>
